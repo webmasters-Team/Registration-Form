@@ -1,0 +1,13 @@
+.form-icon {
+    position: absolute;
+    z-index: 10;
+    display: flex;
+    width: 2.5rem;
+    height: 2.5rem;
+    line-height: 2.5rem !important;
+    text-align: center;
+    pointer-events: none;
+    color: #6b7280;
+}
+
+.input-field { text-indent: 2.5rem; }
